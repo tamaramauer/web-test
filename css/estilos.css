@@ -16,8 +16,10 @@
 /* $2: Estilos tipográficos */
 
 body {
-	font-family: sans-serif;
+	font-family: fantasy;
 	line-height: 1.5;
+    color: brown;
+    background-color: black;
 }
 
 h1 {
