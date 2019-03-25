@@ -15,11 +15,14 @@
 
 /* $2: Estilos tipográficos */
 
+img {
+    max-width: 100%;
+}
+
 body {
-	font-family: fantasy;
-	line-height: 1.5;
-    color: brown;
-    background-color: black;
+margin-top: 10px;
+margin-left: 10px;
+background-image:
 }
 
 h1 {
@@ -29,6 +32,17 @@ h1 {
 
 p {
 	margin-bottom: 15px;
+}
+
+.imagenesins {
+    width: 200px;
+    height: 200px;
+}
+
+.followus {
+    background-color: dimgrey;
+    font-family: sans-serif;
+    color: white;
 }
 
 /* $3: XXXX */
